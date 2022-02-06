@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-![](git@github.com:Yuki-mm/Yuki-mm/workflows/<WORKFLOW_NAME>/badge.svg)
+![](git@github.com:Yuki-mm/Yuki-mm/workflows/Yuki-mm/badge.svg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
